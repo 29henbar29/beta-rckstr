@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "RCKSTR",
+			"problemMatcher": [],
+			"label": "npm: start - RCKSTR",
+			"detail": "nodemon index.js"
+		}
+	]
+}
